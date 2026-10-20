@@ -1,0 +1,10 @@
+name: dpbs-midterm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas=3.0.6
+  - numpy=2.4.6
+  - matplotlib=3.11.2
+  - scikit-learn=1.9.1
+  - ipykernel
